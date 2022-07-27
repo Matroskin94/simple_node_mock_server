@@ -1,0 +1,6 @@
+{
+  "/create": {
+    "post": "customer.create.post.json",
+    "delay": 500
+  }
+}
